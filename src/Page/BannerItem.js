@@ -1,4 +1,5 @@
 import React from 'react';
+import './Ban.css'
 
 const BannerItem = ({slide}) => {
     // console.log(props);
@@ -7,7 +8,7 @@ const BannerItem = ({slide}) => {
     return (
         <div id={`slide${id}`} className="carousel-item relative w-full">
         <div className='img-gradient'>
-        <img src={image} alt='' className="w-full" />
+        <img src={image} alt='' className="w-83 rounded-xl h-85" />
         </div>
          <div className="absolute flex justify-end transform -translate-y-1/2 left-5 right-5 bottom-0">
            <a href={`#slide${prev}`} className="btn btn-circle mr-5">❮</a> 
