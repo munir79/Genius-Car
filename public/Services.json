@@ -1,0 +1,80 @@
+[
+
+{
+    "id": "5960bf40-9603-4a39-9ff6-6cf9f1ce4815",
+    "category": "Cap",
+    "name": "UNISEX ORIGINALS WASHED BUCKET",
+    "seller": "Addidas",
+    "price": 27,
+    "stock": 14,
+    "ratings": 4,
+    "ratingsCount": 3,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/e1e758585df14bbbb7d8aaf000c95bd7_9366/UNISEX_ORIGINALS_WASHED_BUCKET_White_CM3933_01_standard.jpg",
+    "shipping": 14,
+    "quantity": 0
+},
+{
+    "id": "5991add1-f4ba-4fb9-9b6b-ec59aa2dda60",
+    "category": "Cap",
+    "name": "SST Plus Strap-Back Hat",
+    "seller": "Addidas",
+    "price": 23,
+    "stock": 14,
+    "ratings": 4,
+    "ratingsCount": 32,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/92e77a8d84d845d19171ad50003f2ea1_9366/SST_Plus_Strap-Back_Hat_White_FZ8569_01_standard.jpg",
+    "shipping": 47,
+    "quantity": 0
+},
+{
+    "id": "5690e579-a943-4b42-9ffe-dfc65b71c560",
+    "category": "Cap",
+    "name": "Dispatch Trucker Hat",
+    "seller": "Addidas",
+    "price": 28,
+    "stock": 16,
+    "ratings": 4,
+    "ratingsCount": 30,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/c3981523051c4a978674ad3c01015664_9366/Dispatch_Trucker_Hat_Black_EY5534_01_standard.jpg",
+    "shipping": 14,
+    "quantity": 0
+},
+{
+    "id": "be7a4d0a-c681-416c-ab8d-f9be28223f4e",
+    "category": "Earphones",
+    "name": "adidas Z.N.E. 01 True Wireless Earbuds",
+    "seller": "Addidas",
+    "price": 142,
+    "stock": 11,
+    "ratings": 5,
+    "ratingsCount": 22,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/00276c6c380b41bcb29fadcc00f98312_9366/adidas_Z.N.E._01_True_Wireless_Earbuds_Grey_EY5116_42_detail.jpg",
+    "shipping": 23,
+    "quantity": 0
+},
+{
+    "id": "b278e667-ca17-465c-b603-af1af4319b7b",
+    "category": "Earphones",
+    "name": "adidas Z.N.E. 01 ANC True Wireless Earbuds",
+    "seller": "Addidas",
+    "price": 135,
+    "stock": 16,
+    "ratings": 5,
+    "ratingsCount": 51,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/b322cdef8e654551ace9adcc00f963ed_9366/adidas_Z.N.E._01_ANC_True_Wireless_Earbuds_Grey_EY5114_41_detail.jpg",
+    "shipping": 30,
+    "quantity": 0
+},
+{
+    "id": "1f56c0e5-4407-44bf-9225-90f592d2924a",
+    "category": "Earphones",
+    "name": "FWD-01 Sport In-Ear Headphones",
+    "seller": "Addidas",
+    "price": 185,
+    "stock": 8,
+    "ratings": 4,
+    "ratingsCount": 66,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/2cdb8652aa2340369ba2aa79010062d1_9366/FWD-01_Sport_In-Ear_Headphones_Black_CM5016_01_standard.jpg",
+    "shipping": 15,
+    "quantity": 0
+}]
