@@ -5,9 +5,11 @@ import logo from '../assets/logo.svg'
 const Header = () => {
     const menuItems=<>
     <Link to='/home'> Home</Link>
+    <Link to='/login'> Log in</Link>
+    <Link to='/signUp'>SignUp</Link>
     </>
     return (
-        <div className="navbar h-5 pt-13 mb-10 bg-base-100">
+        <div className="navbar h-5 p-10  pt-13 mb-10 bg-base-100">
         <div className="navbar-start">
           <div className="dropdown">
             <label tabIndex={0} className="btn btn-ghost lg:hidden">
@@ -23,8 +25,8 @@ const Header = () => {
             <img src={logo} alt="" />
           </Link>
         </div>
-        <div className="navbar-center hidden lg:flex">
-          <ul className="menu menu-horizontal px-1">
+        <div className="navbar-center  hidden lg:flex">
+          <ul className="menu menu-horizontal p-15 px-10">
             {menuItems}
            
           </ul>
