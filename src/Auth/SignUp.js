@@ -29,7 +29,7 @@ const SignUp = () => {
            
           </div> 
           <div className="card flex-shrink-0 w-full max-w-sm shadow-2xl bg-base-100">
-          <h1 className="text-4xl font-bold ml-10 mt-5 text-orange-300">Login now!</h1>
+          <h1 className="text-4xl font-bold ml-10 mt-5 text-orange-300">Signup now!</h1>
             <div className="card-body">
               <form  onSubmit={handleSignUp}>
               <div className="form-control">
@@ -48,7 +48,7 @@ const SignUp = () => {
                 </label>
               </div>
               <div className="form-control mt-6">
-                <button type='submit' className="btn btn-primary">Login</button>
+                <button type='submit' className="btn btn-primary">SignUp</button>
               </div>
               </form>
             </div>
