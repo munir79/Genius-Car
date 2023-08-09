@@ -1,8 +1,9 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const ServicesCard = (props) => {
     console.log(props);
-    const {img,name,price}=props.service;
+    const {img,name,price,_id}=props.service;
 
     return (
        
@@ -15,7 +16,11 @@ const ServicesCard = (props) => {
     <h3> Price:{price}</h3>
    
     <div className="card-actions justify-center">
-      <button className="btn btn-primary">Buy Now</button>
+   <Link to={`/out/${_id}`}>
+    
+   <button className="btn btn-primary">Buy Now</button>
+   </Link>
+    
     </div>
   </div>
 </div>
