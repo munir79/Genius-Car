@@ -19,7 +19,19 @@ const Out = () => {
           
     
         }
-        
+
+        // send or post data in serverVer side 
+        fetch('http://localhost:5000/orders',{
+            method:'post',
+            headers:{
+                'content-type':'aplication/json'
+            },
+            body:JSON.stringify(order)
+
+        })
+        .then(res=>res.json())
+        .then(data=>console.log(data))
+        .catch(error=>console.error(error))
        
     }
    
